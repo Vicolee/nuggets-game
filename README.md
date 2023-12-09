@@ -1,7 +1,7 @@
 # Nuggets
 
 ### Overview
-This repository contains the code for the CS50 "Nuggets" game, in which players explore a set
+This repository contains the code for a "Nuggets" game, in which players explore a set
 of rooms and passageways in search of gold nuggets.
 The rooms and passages are defined by a *map* loaded by the server at the start of the game.
 The gold nuggets are randomly distributed in *piles* within the rooms.
