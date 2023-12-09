@@ -1,6 +1,4 @@
 # Nuggets
-## CS50
-## Team Add/Drop
 
 ### Overview
 This repository contains the code for the CS50 "Nuggets" game, in which players explore a set
